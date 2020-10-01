@@ -1,0 +1,34 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "kfc restaurant",
+      "address": "karjan",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "mi restaurant",
+      "address": "kandari",
+      "email": "bfg@gmail.com"
+    },
+    {
+      "name": "om restaurant",
+      "address": "palej",
+      "email": "tyusadfgdfm@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "darshan",
+      "address": "darshan hotel por",
+      "email": "darshan@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "rahul",
+      "address": "sadasd",
+      "email": "fdsfsfsf",
+      "id": 5
+    }
+  ]
+}
